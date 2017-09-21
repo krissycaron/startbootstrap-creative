@@ -342,3 +342,36 @@ header.masthead {
 
 .btn-xl {
   padding: 15px 30px; }
+.technologies{
+
+}
+  .devicon-git-plain {
+  max-width: 2em;
+}
+
+/* if you want to change the original color */
+.devicon-git-plain path {
+  fill: #4691f6;
+}
+i {
+    font-size: 6em;
+    padding: 15px;
+    border: 0.1px solid white;
+    border-radius: 50%;
+    margin: 10px;
+  }
+}
+.tech-list {
+   list-style-type: none;
+   padding-left: 0;
+   padding-bottom: 30px;
+   li {
+     font-size: .9em;
+     display: inline;
+     margin-right: 10px;
+     background-color: gray;
+     color: black;
+     padding: 5px;
+     border-radius: 5px;
+   }
+

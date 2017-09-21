@@ -1,0 +1,20 @@
+#menu_items {
+    -webkit-box-sizing: content-box !important;
+    -moz-box-sizing: content-box !important;
+    box-sizing: content-box !important;
+    width: auto;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+i {
+    font-size: 6em;
+    padding: 15px;
+    border: 0.1px solid white;
+    border-radius: 68%;
+    margin: 10px;
+    color: purple;
+}
+  
+  .devicon-git-plain path {
+  fill: #4691f6;

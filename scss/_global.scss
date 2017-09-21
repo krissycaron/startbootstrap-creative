@@ -89,3 +89,38 @@ img::-moz-selection {
 body {
   -webkit-tap-highlight-color: $gray-darker;
 }
+
+.technologies-icons {
+  margin: 0 auto;
+  height: 100vh;
+  background-image: url(../images/coffee-cup2_Dark.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: white;
+  i {
+    font-size: 6em;
+    padding: 15px;
+    // border: 0.1px solid white;
+    // border-radius: 50%;
+    margin: 10px;
+  }
+  h4 {
+    font-size: 1.4em;
+    font-family: 'Helvetica', sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+  }
+  .row1 {
+    height: 30%;
+    margin-top: 50px;
+    padding-top: 30px;
+  }
+  .row2 {
+    padding-bottom: 20px;
+  }
+  // .q {
+  //   height: 100%;
+  // }
+ }
+
